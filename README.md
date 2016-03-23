@@ -14,11 +14,16 @@
 
 ## 使用 
 
+在文章中插入一句短代码(shortcode)：
+
 ```
 [pingpp amount=100]
 [pingpp amount=100 channel="alipay_pc_direct"]
 [pingpp amount=100 selectable=true]
 ```
+
+即可生成一个支付按钮，实现轻松支付：
+<img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-3.png" width="280">
 
 ## 更新日志
 
