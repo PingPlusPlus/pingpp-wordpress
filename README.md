@@ -23,7 +23,8 @@
 ```
 
 即可生成一个支付按钮，实现轻松支付：
-<img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-3.png" width="280">
+
+<img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-3.png" width="350">
 
 ## 更新日志
 
