@@ -10,7 +10,7 @@
 
 登录 [Ping++管理平台](https://dashboard.pingxx.com/)， 将对应的 test/live keys 填入插件配置页面
 
-<img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-2.png" width="500">
+<img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-2.png" width="300">
 
 ## 使用 
 
