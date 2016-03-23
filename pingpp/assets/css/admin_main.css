@@ -1,0 +1,138 @@
+/* Default admin CSS. */
+
+#ppp-settings {
+	margin-right: 310px;
+}
+
+#ppp-settings-content {
+	width: 100%;
+	float: left;
+}
+
+#ppp-settings-sidebar {
+	float: right;
+	margin-right: -310px;
+	width: 290px;
+}
+
+#ppp-settings-sidebar .centered {
+	text-align: center;
+}
+
+#ppp-settings-sidebar .button-large {
+	font-size: 17px;
+	line-height: 30px;
+	height: 32px;
+}
+
+#ppp-settings-sidebar .last-blurb {
+	font-size: 17px;
+}
+
+/* Alternative postbox class with no background or border. */
+#ppp-settings-sidebar .postbox-nobg {
+	position: relative;
+	min-width: 255px;
+}
+
+/* postbox overrides */
+#ppp-settings-sidebar .sidebar-container .postbox .inside {
+	margin-bottom: 0;
+}
+
+/* Toggle switch wrap */
+.sc_settings-toggle-switch-wrap {
+	width: 300px;
+	margin-left: -88px;
+}
+
+/* Used to hide settings on page load */
+.ppp-admin-hidden {
+	display: none;
+}
+
+/* Content block for admin tabs */
+#ppp-settings-content .tab-content {
+	display: block;
+	padding-top: 15px;
+}
+
+/* Labels for admin settings */
+#ppp-settings-content .tab-content label {
+	font-weight: bold;
+	display: block;
+	margin-top: 15px;
+}
+
+#ppp-settings-content .tab-content input[type="radio"] + label {
+	display: inline;
+	margin-top: 0px;
+	font-weight: normal;
+}
+
+/* System Status CSS */
+#ppp-system-status-report textarea {
+	font-family: monospace;
+	min-height: 200px;
+	padding: 5px 20px;
+	white-space: pre;
+	width: 100%;
+}
+
+.ppp-system-status-report-panel {
+	margin: 20px 0;
+}
+
+.ppp-system-status-report-panel thead th {
+	font-weight: bold;
+}
+
+.ppp-system-status-report-panel tbody td,
+.ppp-system-status-report-panel thead th {
+	font-size: 14px;
+	vertical-align: top;
+}
+
+.ppp-system-status-report-panel tbody .tooltip {
+	text-align: center;
+	width: 20px;
+}
+
+.ppp-system-status-report-panel tbody .label {
+	width: 30%;
+}
+
+.ppp-system-status-report-panel tbody tr:nth-child(odd) td {
+	background-color: rgba(0, 0, 0, 0.02);
+}
+
+.ppp-system-status-report-panel dl {
+	margin: 0;
+	padding: 0;
+}
+
+.ppp-system-status-report-panel dt {
+	float: left;
+	font-style: italic;
+	margin: 0 4px 0 0;
+}
+
+.ppp-system-status-report-panel dd {
+	margin: 0;
+}
+
+.ppp-system-status-report-panel mark {
+	background-color: transparent;
+	font-weight: bold;
+}
+
+.ppp-system-status-report-panel mark.ok {
+	color: green;
+}
+
+.ppp-system-status-report-panel mark.error {
+	color: red;
+}
+
+.ppp-code {font-family: monospace, monospace; }
+.ppp-code * {color: #4c4c4d; font-size: 1em;}

@@ -1,0 +1,88 @@
+/* Public CSS file */
+
+/* Payment details at the top of the post. */
+.ppp-payment-details-wrap { 
+	background: #dff0d8;
+	border: 0;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.ppp-payment-details-error {
+	background: #ffbaba;
+}
+
+/* Basic form styles. Most based off Bootstrap 3. */
+
+.ppp-checkout-form {
+	margin-bottom: 15px;
+}
+
+
+
+/*
+	by Aaron
+*/
+.wp_pingxx_form{
+	display: inline-block;
+	line-height: 2;
+}
+.wp_pingxx_channel {
+	position: absolute;
+	display: block;
+	top: -99999px;
+	left: -99999px;
+	-webkit-appearance: none;
+}
+
+.wp_pingxx_channel_box {
+	display: inline-block;
+	margin-right: 8px;
+	padding: 4px 10px;
+	/*min-width: 145px;*/
+	vertical-align: top;
+	text-align: center;
+	font-size: 14px;
+	font-weight: normal;
+	color: #76858c;
+	background-color: #fff;
+	border: 2px solid #f7f9fa;
+	cursor: pointer;
+}
+
+.wp_pingxx_channel_box:hover {
+	background-color: #f7f9fa;
+}
+
+.wp_pingxx_channel_box img{
+	margin-right: 4px;
+	line-height: 28px;
+	vertical-align: middle;
+}
+.wp_pingxx_channel:checked + .wp_pingxx_channel_box,
+.wp_pingxx_channel:focus + .wp_pingxx_channel_box {
+	border-color: #f0f0f0;
+	background-color: #f0f0f0;
+}
+
+.wp_pingxx_form .wp_pingxx_submit {
+	display: block;
+	min-width: 120px;
+	margin: 16px auto;
+	padding: 2px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 2;
+	vertical-align: top;
+	cursor: pointer;
+	border: none;
+	color: #fff;
+	background-color: #35c8e6;
+	white-space: nowrap;
+	outline-style: none;
+}
+.wp_pingxx_form .wp_pingxx_submit:hover,
+.wp_pingxx_form .wp_pingxx_submit:active {
+    background-color: #05a8d6;
+}
