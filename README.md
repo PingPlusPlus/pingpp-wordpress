@@ -4,7 +4,7 @@
 
 将 `pingpp` 目录放到 `/wp-content/plugins/` 下， 登录 wordpress 后台，启用插件
 
-![Ping++ Wordpress Plugin screenshot 1](https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-1.png)
+<img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-1.png" width="500">
 
 ## 配置
 
