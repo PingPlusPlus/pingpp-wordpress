@@ -4,6 +4,8 @@
 
 将 `pingpp` 目录放到 `/wp-content/plugins/` 下， 登录 wordpress 后台，启用插件
 
+![Ping++ Wordpress Plugin screenshot 1](https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-1.png)
+
 ## 配置
 
 登录 [Ping++管理平台](https://dashboard.pingxx.com/)， 将对应的 test/live keys 填入插件配置页面
