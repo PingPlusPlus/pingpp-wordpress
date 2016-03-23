@@ -1,14 +1,14 @@
-### Ping++ 支付集成插件
+# Ping++ 支付集成插件
 
-##### 安装
+## 安装
 
 将 `pingpp` 目录放到 `/wp-content/plugins/` 下， 登录 wordpress 后台，启用插件
 
-##### 配置
+## 配置
 
 登录 [Ping++管理平台](https://dashboard.pingxx.com/)， 将对应的 test/live keys 填入插件配置页面
 
-##### 使用 
+## 使用 
 
 ```
 [pingpp amount=100]
@@ -16,7 +16,7 @@
 [pingpp amount=100 selectable=true]
 ```
 
-##### 更新日志
+## 更新日志
 
 **0.1.0** 发布日期: 2016年03月22日
 
