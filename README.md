@@ -2,7 +2,7 @@
 
 ## 安装
 
-将 `pingpp` 目录放到 `/wp-content/plugins/` 下， 登录 wordpress 后台，启用插件
+将 `pingpp` 目录放到 `/wp-content/plugins/` 下， 登录 wordpress 后台，启用Ping++（即pingxx）插件
 
 <img src="https://raw.githubusercontent.com/PingPlusPlus/pingpp-wordpress/master/pingxx-wp-plugin-screenshot-1.png" width="500">
 
